@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Mornin'26",
+  "base_artist": "PUNPEE",
+  "createdAt": "2026-02-17T09:06:44.232413Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mornin'26",
+      "artist": "PUNPEE",
+      "has_synced": false,
+      "path": "select/pl_01_Mornin'26_PUNPEE.txt"
+    }
+  ]
+}
